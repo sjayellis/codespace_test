@@ -1,0 +1,3 @@
+sympy-for-algebra
+algebra-with-sympy
+matplotlib
